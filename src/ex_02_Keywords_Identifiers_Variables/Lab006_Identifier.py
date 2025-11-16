@@ -1,0 +1,12 @@
+age=65
+Age=25
+_age=35
+print(age)
+print(Age)
+print(_age)
+_=12
+print(_)
+_=_+1
+print(_)
+abc123=90
+print(abc123)
